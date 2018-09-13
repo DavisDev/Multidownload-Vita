@@ -39,7 +39,7 @@ The source code is too rudimentary and I hope to improve it :( , I wish to dedic
 Remember that this application the only thing you do is download directly from servers, you may have bandwidth restriction, if you do not have a premium account.
 
 ### Credits ###
-- Mega-icon By **Papirus Development Team** GNU General Public License v3.0 in [Deviantart](http://tinylab.deviantart.com/art/Filezilla-Icon-510586622).
+- Mega-icon By **Papirus Development Team** GNU General Public License v3.0.
 
 ### Report bugs ###
 if you see something wrong, please submit an issue or pull request.
