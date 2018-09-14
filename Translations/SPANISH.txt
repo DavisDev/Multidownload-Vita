@@ -1,0 +1,42 @@
+-- @DevDavisNunez
+
+MENU_ACTION_QR = "Escanea Código QR"
+MENU_ACTION_URL = "Introduce URL"
+MENU_ACTION_EXIT = "Salir"
+
+NET_CB_DOWNLOADING = "Descargando..."
+NET_CB_SIZE = "Tamaño: "
+NET_CB_WRITTEN = " Descargado: "
+NET_CB_PERCENT = "Porcentaje: "
+
+DOWNLOAD_SUCCESS = "¡Descarga con Éxito!"
+DOWNLOAD_FAILED = "¡Descargada Fallida!"
+DOWNLOAD_ABORT = "¡Descarga Cancelada!"
+
+DOWNLOAD_URL = "URL que descargar"
+DOWNLOAD_SAVE_AS = "Guardar como"
+QR_SCANNING = "Escaneando QR"
+
+INSTALL_DOWNLOAD_VPK = "¿Quieres instalar el VPK?"
+INSTALL_DELETE_VPK = "¿Quieres borrar el VPK instalado?"
+
+INSTALL_SEARCH_UNSAFE =	"¡Buscando archivos VPK Inseguros o Peligrosos!"
+INSTALL_WARNING_UNSAFE =		"¡Se requiere de permisos extendidos e información personal! \n\n¡Ten cuidado con las fuentes de paquetes no confiables! \n\n¿Quieres instalarlo bajo tu propio riesgo?"
+INSTALL_WARNING_DANGEROUS =		"¡¡¡Cuidado!!! ¡Hay alto riesgo de brickear tu dispositivo si instalas este VPK! \n\n¡Ten cuidado con las fuentes de paquetes no confiables! \n\n¿Quieres instalarlo bajo tu propio riesgo?"
+INSTALL_UNPACK_VPK =			"Desempaquetando VPK..."
+INSTALL_CALLBACKS_FILE =		"Archivo: "
+INSTALL_CALLBACKS_PERCENT =		"Porcentaje: "
+INSTALL_CALLBACKS_PERCENT_ALL = "Percentaje Total: "
+INSTALL_INSTALLING =			"Instalando..."
+
+INSTALL_SUCCESS = "¡Instalación Exitosa!"
+INSTALL_ACCEPT = "Aceptar"
+INSTALL_CANCEL = "Cancelar"
+INSTALL_FAILED = "¡Instalación Fallida!"
+
+EXPORT_INSTALL = "¿Quieres exportarlo como multimedia?"
+EXPORT_MEDIA_SUCCESS = "¡Exportado exitosamente como multimedia!"
+EXPORT_MEDIA_IMAGE = "¡Imagen añadida!"
+EXPORT_MEDIA_SOUND = "¡Sonido añadido!"
+EXPORT_MEDIA_VIDEO = "¡Video añadido!"
+EXPORT_MEDIA_FAILED = "¡Fallo al exportar multimedia!"
