@@ -1,4 +1,4 @@
--- @DevDavisNunez
+-- @RY0M43CH1Z3N
 
 MENU_ACTION_QR = "Escanea Código QR"
 MENU_ACTION_URL = "Introduce URL"

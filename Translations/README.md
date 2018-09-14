@@ -3,26 +3,26 @@
 ### Shared your Translation ###
 
 You can translate the file Translations/english_us.txt and rename it to corresponding language:.<br>
-JAPANESE.txt<br>
-ENGLISH_US.txt<br>
-FRENCH.txt<br>
-SPANISH.txt<br>
-GERMAN.txt<br>
-ITALIAN.txt<br>
-DUTCH.txt<br>
-PORTUGUESE.txt<br>
-RUSSIAN.txt<br>
-KOREAN.txt<br>
-CHINESE_T.txt<br>
-CHINESE_S.txt<br>
-FINNISH.txt<br>
-SWEDISH.txt<br>
-DANISH.txt<br>
-NORWEGIAN.txt<br>
-POLISH.txt<br>
-PORTUGUESE_BR.txt<br>
-ENGLISH_GB.txt<br>
-TURKISH.txt<br>
+japanese.txt<br>
+english_us.txt<br>
+french.txt<br>
+spanish.txt<br>
+german.txt<br>
+italian.txt<br>
+dutch.txt<br>
+portuguese.txt<br>
+russian.txt<br>
+korean.txt<br>
+chinese_t.txt<br>
+chinese_s.txt<br>
+finnish.txt<br>
+swedish.txt<br>
+danish.txt<br>
+norwegian.txt<br>
+polish.txt<br>
+portuguese_br.txt<br>
+english_gb.txt<br>
+turkish.txt<br>
 
 
 *Remember to translate only the quoted words from english_us.txt.
